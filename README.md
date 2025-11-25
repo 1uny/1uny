@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Abdullah Alanazi!</h1>
 <h3 align="center">A passionate Software developer from Kingdom of Saudi Arabia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1uny&label=Profile%20views&color=0e75b6&style=flat" alt="1uny" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1uny" alt="1uny" /></a> </p>
 
