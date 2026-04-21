@@ -1,10 +1,5 @@
 #  Hi, I'm Abdullah AlAnazi
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Location-Saudi%20Arabia-006C35?style=flat-square&logo=KSA&logoColor=white" alt="Saudi Arabia" />
-  <img src="https://img.shields.io/badge/Role-Software%20Engineer-blue?style=flat-square" alt="Software Engineer" />
-</p>
-
 ###  About Me
 I'm a passionate developer based in the Kingdom of Saudi Arabia, dedicated to building scalable solutions and exploring modern web technologies. I focus on creating clean, efficient code and delivering impactful user experiences.
 
