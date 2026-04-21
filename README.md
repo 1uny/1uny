@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdullah AlAnazi
+# 👋 Hi, I'm Abdullah Al-Anazi
 
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Saudi%20Arabia-006C35?style=flat-square&logo=KSA&logoColor=white" alt="Saudi Arabia" />
@@ -44,15 +44,22 @@ I'm a passionate developer based in the Kingdom of Saudi Arabia, dedicated to bu
 
 ---
 
-### 🤝 Connect with me:
+### 🤝 Connect with me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/aaalanazi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="mailto:EAbdullah.Alanazi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
+  <a href="https://github.com/1uny">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1uny&label=Profile%20Views&color=006C35&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
