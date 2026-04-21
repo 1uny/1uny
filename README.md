@@ -5,7 +5,6 @@ I'm a passionate developer based in the Kingdom of Saudi Arabia, dedicated to bu
 
 -  I’m currently working on enhancing my full-stack development skills.
 -  I’m currently learning **Advanced System Architecture** and **AI Integration**.
--  Ask me about **Web Development**, **TypeScript**, or the **Saudi Tech Ecosystem**.
 -  How to reach me: **[EAbdullah.Alanazi@gmail.com](mailto:EAbdullah.Alanazi@gmail.com)**
 
 ---
